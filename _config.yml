@@ -94,7 +94,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "JakeWharton",
-        href: "https://github.com/JakeWharton"
+        title: "qiujuer",
+        href: "https://github.com/qiujuer"
     }
 ]
